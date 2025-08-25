@@ -1,3 +1,6 @@
 [submodule "cpp/sam/extern/robinmap"]
 	path = cpp/sam/extern/robinmap
 	url = https://github.com/Tessil/robin-map.git
+[submodule "cpp/sam/extern/sophus"]
+	path = cpp/sam/extern/sophus
+	url = https://github.com/strasdat/Sophus.git
