@@ -1,0 +1,13 @@
+os2 ip                  192.168.75.50
+os2->ip local           192.168.75.11
+os2 port->lidar.        7502
+os2 port->imu.          7503
+os2->multicast.         239.168.74.10
+
+nav port                25858
+nav->multicast          239.101.0.2
+
+local->asv1target2.     10.0.201.102
+local->os2.
+
+loop                    127.0.0.1
